@@ -177,7 +177,7 @@ it is typically used for local development), a `port`, and an `application`.
 This application will be defined in a function somewhere in the file- as we saw
 before, we named ours `application`.
 
-Run `python server/werkzeug_app.py` (or change the file to be executable first if
+Run `python3 server/werkzeug_app.py` (or change the file to be executable first if
 you prefer). You should see the following in the terminal:
 
 ```console
